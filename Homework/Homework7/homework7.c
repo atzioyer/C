@@ -299,3 +299,5 @@ void horario ()
   fclose (leersistema);
   fclose (escribirhorario);
 }
+
+/*Based on Rulgamer07*/
