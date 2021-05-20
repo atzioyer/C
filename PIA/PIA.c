@@ -21,14 +21,14 @@ int main()
     		scanf("%s",del[a]);
     		printf("Pin: ");
     		scanf("%s",contr[a]);
-    		printf("\nEl You are now register in this system.\n");
+    		printf("\n You are now register in this system.\n");
     		contu=contu+1;
     		a=a+1;
 		}
 
 		if (x==2){
 
-		    printf("\nLista de usuarios\n");
+		    printf("/n);
 			for(i=0;i+1<=contu;i++){
 
     		printf("Delivery man code %d is %s \n",i,del[i]);
